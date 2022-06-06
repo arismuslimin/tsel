@@ -1,5 +1,7 @@
-trojan://1841bc30-de8f-11ec-b033-225401db9d57@sghe.tjvpn.org:443?security=tls&headerType=none&type=tcp&sni=support.musical.ly#SGHE+EXTRA+T2
-trojan://1841bc30-de8f-11ec-b033-225401db9d57@sghe.tjvpn.org:443?security=tls&headerType=none&type=tcp&sni=v27.tiktokcdn.com#SGHE+EXTRA+T3
+trojan://48f69620-e595-11ec-b139-225401db9d57@sg-ovh.tjvpn.org:443?path=%2Ffastssh&security=tls&host=sg-ovh.tjvpn.org&type=ws&sni=support.musical.ly#SGO+T2
+trojan://48f69620-e595-11ec-b139-225401db9d57@sg-ovh.tjvpn.org:443?path=%2Ffastssh&security=tls&host=sg-ovh.tjvpn.org&type=ws&sni=v27.tiktokcdn.com#SGO+T3
+trojan://02ff4320-e596-11ec-813d-1239d0255272@sgovh-trojan.bonds.id:443?path=%2Fhowdy&security=tls&host=sgovh-trojan.bonds.id&type=ws&sni=support.musical.ly#SGO+T2+15GB
+trojan://02ff4320-e596-11ec-813d-1239d0255272@sgovh-trojan.bonds.id:443?path=%2Fhowdy&security=tls&host=sgovh-trojan.bonds.id&type=ws&sni=v16.musical.ly#SGO+T1+15GB
 trojan://95821b70-de8f-11ec-ba6b-1239d0255272@id5-trojan.bonds.id:443?security=tls&headerType=none&type=tcp&sni=support.musical.ly#IDB5+EXTRA+T2+15gb
 trojan://f20b9160-de8f-11ec-a378-1239d0255272@idtj-uninet.bonds.id:443?security=tls&headerType=none&type=tcp&sni=v27.tiktokcdn.com#IDU+EXTRA+T3+15gb
 trojan://3ee5fe80-de90-11ec-8d29-1239d0255272@idtj-uninet.bonds.id:443?security=tls&headerType=none&type=tcp&sni=support.musical.ly#IDU+EXTRA+T2+15gb
