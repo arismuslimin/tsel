@@ -1,7 +1,6 @@
-trojan://48f69620-e595-11ec-b139-225401db9d57@sg-ovh.tjvpn.org:443?path=%2Ffastssh&security=tls&host=sg-ovh.tjvpn.org&type=ws&sni=support.musical.ly#SGO+T2
-trojan://48f69620-e595-11ec-b139-225401db9d57@sg-ovh.tjvpn.org:443?path=%2Ffastssh&security=tls&host=sg-ovh.tjvpn.org&type=ws&sni=v27.tiktokcdn.com#SGO+T3
+vmess://eyJhZGQiOiJzZ20xcmF5LnNlcnZlcnNzaC5uZXQiLCJhaWQiOiIwIiwiaG9zdCI6InNnbTFyYXkuc2VydmVyc3NoLm5ldCIsImlkIjoiNmE2YzljMjQtODljZC00ZTVmLWE0ZDktMjM3MGFiNGZkZTM0IiwibmV0Ijoid3MiLCJwYXRoIjoiL3NlcnZlcnNzaC5uZXQiLCJwb3J0IjoiNDQzIiwicHMiOiJTR08gRVhUUkEgVDEgMjdqdW5pIiwic2N5IjoiYXV0byIsInNuaSI6InYxNi5tdXNpY2FsLmx5IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+vmess://eyJhZGQiOiJzZ20xcmF5LnNlcnZlcnNzaC5uZXQiLCJhaWQiOiIwIiwiaG9zdCI6InNnbTFyYXkuc2VydmVyc3NoLm5ldCIsImlkIjoiNmE2YzljMjQtODljZC00ZTVmLWE0ZDktMjM3MGFiNGZkZTM0IiwibmV0Ijoid3MiLCJwYXRoIjoiL3NlcnZlcnNzaC5uZXQiLCJwb3J0IjoiNDQzIiwicHMiOiJTR08gRVhUUkEgVDIgMjdqdW5pIiwic2N5IjoiYXV0byIsInNuaSI6InN1cHBvcnQubXVzaWNhbC5seSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiJzZ20xcmF5LnNlcnZlcnNzaC5uZXQiLCJhaWQiOiIwIiwiaG9zdCI6InNnbTFyYXkuc2VydmVyc3NoLm5ldCIsImlkIjoiNmE2YzljMjQtODljZC00ZTVmLWE0ZDktMjM3MGFiNGZkZTM0IiwibmV0Ijoid3MiLCJwYXRoIjoiL3NlcnZlcnNzaC5uZXQiLCJwb3J0IjoiNDQzIiwicHMiOiJTR08gRVhUUkEgVDMgMjdqdW5pIiwic2N5IjoiYXV0byIsInNuaSI6InYyNy50aWt0b2tjZG4uY29tIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 trojan://02ff4320-e596-11ec-813d-1239d0255272@sgovh-trojan.bonds.id:443?path=%2Fhowdy&security=tls&host=sgovh-trojan.bonds.id&type=ws&sni=support.musical.ly#SGO+T2+15GB
 trojan://02ff4320-e596-11ec-813d-1239d0255272@sgovh-trojan.bonds.id:443?path=%2Fhowdy&security=tls&host=sgovh-trojan.bonds.id&type=ws&sni=v16.musical.ly#SGO+T1+15GB
 trojan://95821b70-de8f-11ec-ba6b-1239d0255272@id5-trojan.bonds.id:443?security=tls&headerType=none&type=tcp&sni=support.musical.ly#IDB5+EXTRA+T2+15gb
-trojan://f20b9160-de8f-11ec-a378-1239d0255272@idtj-uninet.bonds.id:443?security=tls&headerType=none&type=tcp&sni=v27.tiktokcdn.com#IDU+EXTRA+T3+15gb
-trojan://3ee5fe80-de90-11ec-8d29-1239d0255272@idtj-uninet.bonds.id:443?security=tls&headerType=none&type=tcp&sni=support.musical.ly#IDU+EXTRA+T2+15gb
