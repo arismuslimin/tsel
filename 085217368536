@@ -1,7 +1,7 @@
-vless://eb85218e-97a4-440c-b060-04ed3cf132d5@bn-id01.ipxray.xyz:443?path=%2Fvless-ws-julienambelas&security=tls&encryption=none&host=bn-id01.ipxray.xyz&type=ws&sni=v16.musical.ly#ID+BIZ+EXTRA+T1+17JULI
-vless://eb85218e-97a4-440c-b060-04ed3cf132d5@bn-id01.ipxray.xyz:443?path=%2Fvless-ws-julienambelas&security=tls&encryption=none&host=bn-id01.ipxray.xyz&type=ws&sni=support.musical.ly#ID+BIZ+EXTRA+T2+17JULI
-vless://eb85218e-97a4-440c-b060-04ed3cf132d5@bn-id01.ipxray.xyz:443?path=%2Fvless-ws-julienambelas&security=tls&encryption=none&host=bn-id01.ipxray.xyz&type=ws&sni=v27.tiktokcdn.com#ID+BIZ+EXTRA+T3+17JULI
 vless://7f71f6a9-5e0f-41c5-8b7e-a69f76ac3ba2@sgm1ray.serverssh.net:443?path=%2Fserverssh&security=tls&encryption=none&host=sgm1ray.serverssh.net&type=ws&sni=v16.musical.ly#SG+OVH+EXTRA+T1+17juli
 vless://7f71f6a9-5e0f-41c5-8b7e-a69f76ac3ba2@sgm1ray.serverssh.net:443?path=%2Fserverssh&security=tls&encryption=none&host=sgm1ray.serverssh.net&type=ws&sni=support.musical.ly#SG+OVH+EXTRA+T2+17juli
 vless://7f71f6a9-5e0f-41c5-8b7e-a69f76ac3ba2@sgm1ray.serverssh.net:443?path=%2Fserverssh&security=tls&encryption=none&host=sgm1ray.serverssh.net&type=ws&sni=v27.tiktokcdn.com#SG+OVH+EXTRA+T3+17juli
 trojan://17a9aac0-ee08-11ec-a2bd-1239d0255272@id2-trojan.bonds.id:443?security=tls&headerType=none&type=tcp&sni=v16.musical.ly#ID+BIZ+EXTRA+T1+15GB
+trojan://rabujuli@bn-id01.iptr.xyz:443?security=tls&headerType=none&type=tcp&sni=v16.musical.ly#ID+BIZ+EXTRA+T1+17JULI
+trojan://rabujuli@bn-id01.iptr.xyz:443?security=tls&headerType=none&type=tcp&sni=support.musical.ly#ID+BIZ+EXTRA+T2+17JULI
+trojan://rabujuli@bn-id01.iptr.xyz:443?security=tls&headerType=none&type=tcp&sni=v27.tiktokcdn.com#ID+BIZ+EXTRA+T3+17JULI
